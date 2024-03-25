@@ -1,6 +1,6 @@
 fun main(){
 myString("Barnie bakes brown bagels and buns")
-   var i=4
+
     var array= arrayOf(2,3,5,7,5)
     println(array.sum())
     println(array.count())
